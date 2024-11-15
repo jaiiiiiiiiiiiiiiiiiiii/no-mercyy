@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Press Start 2P', cursive;
+  }
+#restartButton:hover {
+    background-color: #45a049;
+}
+#restartbox2{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+#restartbtn{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    color:black;
+    background-color: bisque;
+}
